@@ -14,6 +14,8 @@ header {
     padding-bottom: 20px;
     width: 100%;
 }
+
+
 .Link {
 text-align: right;
     & 
@@ -78,15 +80,130 @@ padding: 20px;
     }
 }
 
+
+
 .Portfolio {
     background-color: #f5f5f5;
     text-align: center;
     padding: 10px 0px 250px 0px;
+
      &
      h2{
         font-size: 36px;
         font-style: oblique 40deg;
         padding: 50px 0px 50px 0px;
      }
+
+     &       
+     .cardindividuel {
+        background: rgb(0,0,0);
+        background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,7,89,1) 78%);
+        height: 400px;
+        width: 30%;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 25px;
+        
+        & img{
+            height: 85%;
+            width: 100%;
+            border-radius: 25px 25px 0px 0px;
+        }
+
+        & 
+        p{
+            font-style: italic;
+            text-decoration: none;
+            color: white;
+        }
+     }
 }
- 
+
+.pageprojet {
+    margin-top: -20px;
+    height: 100vh;
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(250,250,250,1) 100%);
+    text-align: center;
+    align-items: center;
+    position: relative;
+    &
+    .flecheretour {
+        position: absolute;
+        left: 50px;
+        top:50px;
+        height: 30px;
+        padding: 5px 12px 6px 10px;
+        border:1px solid white ;
+    }
+    
+    &
+    h1{
+        color: white;
+        padding-top: 60px;
+        margin-bottom: 60px;
+    }
+
+    &
+    p{
+        margin-top: 50px;
+        margin-bottom: 20px;
+    }
+
+    &
+    .btntype{
+
+        display: flex;
+    &
+        .type{
+            color: #f5f5f5;
+            background: rgb(0,0,0);
+            background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,7,89,1) 78%);
+            border-radius: 20px;
+            padding: 10px 20px 10px 20px;
+            margin-left: 15px;
+            margin-right: 15px;
+        }
+}   
+}
+
+
+
+
+
+.Carrousel {
+    width: 55%;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+    &
+    img{
+        width: 100%;
+        height: 600px;
+    }
+
+}    
+
+.flechegauche img,
+.flechedroite img{
+    z-index: 1;
+  }
+
+.flechedroite img {
+    position: absolute;
+    transform: translateY(-50%);
+    top: 45%; 
+    right: 30px;
+    width: 50px; 
+    height: 80px;
+}
+
+.flechegauche img {
+    position: absolute;
+    transform: translateY(-50%);
+    top: 45%;
+    left: 30px;
+    width: 50px; 
+    height: 80px;
+}
