@@ -94,15 +94,25 @@ padding: 20px;
         padding: 50px 0px 50px 0px;
      }
 
+     &
+     .cardProjet{
+        width: 80%;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); 
+        //padding: 0px 250px 0px 250px; 
+        margin-left: 13%;
+        
+     }
+
      &       
      .cardindividuel {
         background: rgb(0,0,0);
         background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,7,89,1) 78%);
         height: 400px;
-        width: 30%;
-        margin-left: auto;
-        margin-right: auto;
+        width: 60%;
         border-radius: 25px;
+        margin-left: 11.33%;
+        margin-bottom: 50px;
         
         & img{
             height: 85%;
