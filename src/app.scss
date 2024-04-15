@@ -21,7 +21,6 @@ text-align: right;
     & 
     a{
 color: white;
-
 text-decoration: none;
 padding: 20px;
 } 
@@ -87,24 +86,28 @@ padding: 20px;
     text-align: center;
     padding: 10px 0px 250px 0px;
 
-     &
+    &
      h2{
         font-size: 36px;
         font-style: oblique 40deg;
         padding: 50px 0px 50px 0px;
      }
 
-     &
+    &
      .cardProjet{
         width: 80%;
         display: grid;
         grid-template-columns: repeat(2, 1fr); 
         //padding: 0px 250px 0px 250px; 
         margin-left: 13%;
+
+        & a{
+            text-decoration: none;
+        }
         
      }
 
-     &       
+     &      
      .cardindividuel {
         background: rgb(0,0,0);
         background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,7,89,1) 78%);
@@ -113,21 +116,23 @@ padding: 20px;
         border-radius: 25px;
         margin-left: 11.33%;
         margin-bottom: 50px;
-        
-        & img{
+
+        &
+        p{       
+            font-style: italic;
+            color: white;
+        }
+   
+        &
+        img{
             height: 85%;
             width: 100%;
             border-radius: 25px 25px 0px 0px;
         }
 
-        & 
-        p{
-            font-style: italic;
-            text-decoration: none;
-            color: white;
-        }
      }
 }
+
 
 .pageprojet {
     margin-top: -20px;
@@ -149,6 +154,8 @@ padding: 20px;
     
     &
     h1{
+        font-size: 36px;
+        font-style: oblique 40deg;
         color: white;
         padding-top: 60px;
         margin-bottom: 60px;
@@ -216,4 +223,169 @@ padding: 20px;
     left: 30px;
     width: 50px; 
     height: 80px;
+}
+
+.Competences {
+    background-color: rgb(85, 85, 85);
+    text-align: center;
+    padding: 10px 0px 250px 0px;
+    margin-left: auto;
+    margin-right: auto;
+
+    &
+    h2{
+        font-size: 36px;
+        font-style: oblique 40deg;
+        padding: 50px 0px 50px 0px;
+        color: #fafafa;
+    }
+
+    &
+    h3{
+        color: #fafafa; 
+    }
+
+    &
+    p{
+        color: #fafafa;
+    }
+}
+
+.cardcompétences {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+
+    &
+    .hardskill{
+        width: 70%;
+        border:1px solid white ;
+        padding: 20px 0px 20px 0px;
+        border-radius: 25px;
+        margin-left: 12%;
+
+        &
+        .textehard{
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+
+            &
+            svg{
+                height: 20px;
+            }
+        }
+    }
+
+    &
+    .softskill{
+        width: 70%;
+        border:1px solid white ;
+        border-radius: 25px;
+        padding: 20px 0px 20px 0px;
+        margin-left: 17%;
+
+        &
+        p{
+            margin-left: auto;
+            margin-right: auto;
+            width: 80%;
+        }
+    }
+}
+
+
+.Contact{
+    background-color: #fafafa;
+    text-align: center;
+    padding: 10px 0px 100px 0px;
+    margin-left: auto;
+    margin-right: auto;
+
+    &
+    h2{
+        font-size: 36px;
+        font-style: oblique 40deg;
+        padding: 50px 0px 50px 0px;
+
+    }
+
+
+    &
+    .textcontact{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); 
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 50px;
+    }
+
+    &
+    p{
+        font-size: 24px;
+    }
+
+    &
+    a{
+        text-decoration: none;
+        width: 60%;
+    }
+
+    &
+    .lienemail{
+        color: #fafafa;
+        font-size: 24px;
+        margin-left: 40%;
+        background-color: black;
+        padding: 20px 0px 0px 0px;
+        border:1px solid black ;
+        border-radius: 25px;
+        align-items: center;
+
+        &
+        svg{
+            margin-left: 10px;
+        }
+
+    }
+
+    &
+    .lienemail:hover{
+    background-color: #fafafa;
+    color: black;
+
+        &
+        svg{
+            color: black;
+        }
+    }
+}
+
+
+footer{
+    background-color: black;
+}
+
+.footer{
+    padding: 50px 5% 50px 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    &
+    p{
+        color: #fafafa;
+    }
+
+    &
+    a{  
+        text-decoration: none;
+        margin: 10px;
+        background-color: #fafafa;
+        border-radius: 50%;
+        padding: 10px;
+        font-size: 20px;
+}
 }

@@ -5,6 +5,7 @@ import { StyleSheetManager } from 'styled-components';
 import Acceuil from "./Composants/Accueil/Page Principal"
 import Projet from "./Composants/Projet/Projet"
 import Navigation from './Composants/Navigation/Navigation'
+import Footer from './Composants/footer/footer'
 
 
 function App() {
@@ -25,7 +26,7 @@ function App() {
         </Routes>
       </main>
       <footer className="App-footer">
-
+      <Footer/>
       </footer>
     </div>
     </StyleSheetManager>
