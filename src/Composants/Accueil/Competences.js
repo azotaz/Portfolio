@@ -29,9 +29,8 @@ export default function Competences({ id }) {
             </div>
             <div className='softskill'>
                 <h3>Soft Skill</h3>
-                <p>Patient, curieux et toujours à la recherche d'apprendre,</p>
-                <p>je sais m'adapter facilement à une situation ou à un travail en équipe.</p>
-                <p>Je suis quelqu'un de sérieux et autonome.</p>
+                <p>Patient,sérieux, curieux et toujours avide d'apprendre,</p>
+                <p>je sais m'adapter facilement à n'importe quelle situation et travaille aussi bien en équipe qu'en autonome.</p>
 
             </div>
         </div>
