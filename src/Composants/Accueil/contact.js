@@ -11,7 +11,7 @@ export default function Contact({ id }) {
         <p>Envie de me contacter ?</p>
 
         <a className='lienemail' href="mailto:martelcedric@sfr.fr">
-        Envoi moi un Email     <FontAwesomeIcon icon={faEnvelope} style={{color: "#00000"}}/>
+        Envoie-moi un mail    <FontAwesomeIcon icon={faEnvelope} style={{color: "#00000"}}/>
         </a>
     </div>
     </div>
