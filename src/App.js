@@ -8,6 +8,7 @@ import Navigation from './Composants/Navigation/Navigation'
 import Footer from './Composants/footer/footer'
 
 
+
 function App() {
   const location = useLocation();
   const isProjetRoute = location.pathname.startsWith('/Portfolio');

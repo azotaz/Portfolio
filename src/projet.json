@@ -1,11 +1,12 @@
+
 [
 	{
 		"id": "Booki",
 		"title": "Projet Booki",
-		"cover": "https://previews.dropbox.com/p/thumb/ACMJnBI8WZtOSkKw2N_mEmj44iFbjPR1VEZvY1Uys7Bd6nVrvaHC6ml0vvPQfigyTzntM_y8oWTtZXdw-vNRB9YgjgfiMSQ2UaC_-C_y1HIsTFelHqd2FSXEox3ms8kMKS-HZ0Hvr8u2kO1Rnw9x6zT0EsJLVa3_LP0x2BcC5RMtBYlXe4rvLwDRPIMWyNG2oT3ttAITydrbsPm0BeY_bN3a5mZoqUuQXyvklTOvV8hJvrm9VDv4ktRTyd6dLFBSSPNEzZrV6uUzhSHMi3xyq4cOpI0Ys-llJf9Rq13VmnDpnijOBDNX8EqZUfU_UuiqUBUcBwFHDuHD_KODBOHufBY6/p.jpeg",
+		"cover": "https://storage.googleapis.com/bucket-porfolio/P2/cover.png",
 		"pictures": [
-			"https://previews.dropbox.com/p/thumb/ACMJnBI8WZtOSkKw2N_mEmj44iFbjPR1VEZvY1Uys7Bd6nVrvaHC6ml0vvPQfigyTzntM_y8oWTtZXdw-vNRB9YgjgfiMSQ2UaC_-C_y1HIsTFelHqd2FSXEox3ms8kMKS-HZ0Hvr8u2kO1Rnw9x6zT0EsJLVa3_LP0x2BcC5RMtBYlXe4rvLwDRPIMWyNG2oT3ttAITydrbsPm0BeY_bN3a5mZoqUuQXyvklTOvV8hJvrm9VDv4ktRTyd6dLFBSSPNEzZrV6uUzhSHMi3xyq4cOpI0Ys-llJf9Rq13VmnDpnijOBDNX8EqZUfU_UuiqUBUcBwFHDuHD_KODBOHufBY6/p.jpeg",
-			"https://previews.dropbox.com/p/thumb/ACPK5hBGnSPORAuldmYDZvUlY6jTpjNjtNvbUjrNMJWufa3b8r7M3nasNfYszcbCPpS77TWDxspilWMC_ESCT7yW3gvP17AJqfwtnepRvQbLeRkTTXJe2gZ3MzYxb4iEb-pNg6gKbsuc0RMDmNJyl6x9v2rRyg1P4ea24Ec5XwSmVbHLBETP6sct5_O98Z8MPDF6v_sMw9VSKdOaPXGWBT8Swuk9AQyzz3dZyumX9SE_SGwKe1MAL1gxW60zdmVn_OPKl8CIxsoqqSRO6HRoZ0d6hNUzDIiZOMGc2JoERACj4SFiNSp2DdosEof_vTl1mizlacD9Syu-qG_nJxpeNAjE/p.png"
+			"https://storage.googleapis.com/bucket-porfolio/P2/cover.png",
+			"https://storage.googleapis.com/bucket-porfolio/P2/1.png"
 		],
 		"description": "Création d'un site de location d'hotel avec HTML et CSS.",
 
@@ -16,35 +17,79 @@
         ]
 	},
 	{
-		"id": "Booki",
-		"title": "Projet Booki",
-		"cover": "https://previews.dropbox.com/p/thumb/ACMJnBI8WZtOSkKw2N_mEmj44iFbjPR1VEZvY1Uys7Bd6nVrvaHC6ml0vvPQfigyTzntM_y8oWTtZXdw-vNRB9YgjgfiMSQ2UaC_-C_y1HIsTFelHqd2FSXEox3ms8kMKS-HZ0Hvr8u2kO1Rnw9x6zT0EsJLVa3_LP0x2BcC5RMtBYlXe4rvLwDRPIMWyNG2oT3ttAITydrbsPm0BeY_bN3a5mZoqUuQXyvklTOvV8hJvrm9VDv4ktRTyd6dLFBSSPNEzZrV6uUzhSHMi3xyq4cOpI0Ys-llJf9Rq13VmnDpnijOBDNX8EqZUfU_UuiqUBUcBwFHDuHD_KODBOHufBY6/p.jpeg",
-		"pictures": [
-			"https://previews.dropbox.com/p/thumb/ACMJnBI8WZtOSkKw2N_mEmj44iFbjPR1VEZvY1Uys7Bd6nVrvaHC6ml0vvPQfigyTzntM_y8oWTtZXdw-vNRB9YgjgfiMSQ2UaC_-C_y1HIsTFelHqd2FSXEox3ms8kMKS-HZ0Hvr8u2kO1Rnw9x6zT0EsJLVa3_LP0x2BcC5RMtBYlXe4rvLwDRPIMWyNG2oT3ttAITydrbsPm0BeY_bN3a5mZoqUuQXyvklTOvV8hJvrm9VDv4ktRTyd6dLFBSSPNEzZrV6uUzhSHMi3xyq4cOpI0Ys-llJf9Rq13VmnDpnijOBDNX8EqZUfU_UuiqUBUcBwFHDuHD_KODBOHufBY6/p.jpeg",
-			"https://previews.dropbox.com/p/thumb/ACPK5hBGnSPORAuldmYDZvUlY6jTpjNjtNvbUjrNMJWufa3b8r7M3nasNfYszcbCPpS77TWDxspilWMC_ESCT7yW3gvP17AJqfwtnepRvQbLeRkTTXJe2gZ3MzYxb4iEb-pNg6gKbsuc0RMDmNJyl6x9v2rRyg1P4ea24Ec5XwSmVbHLBETP6sct5_O98Z8MPDF6v_sMw9VSKdOaPXGWBT8Swuk9AQyzz3dZyumX9SE_SGwKe1MAL1gxW60zdmVn_OPKl8CIxsoqqSRO6HRoZ0d6hNUzDIiZOMGc2JoERACj4SFiNSp2DdosEof_vTl1mizlacD9Syu-qG_nJxpeNAjE/p.png"
+		"id": "SophieBluel",
+		"title": "Sophie Bluel",
+		"cover": "https://storage.googleapis.com/bucket-porfolio/P3/cover.png",
+		"pictures": ["https://storage.googleapis.com/bucket-porfolio/P3/cover.png",
+		"https://storage.googleapis.com/bucket-porfolio/P3/1.png",
+		"https://storage.googleapis.com/bucket-porfolio/P3/2.png",
+		"https://storage.googleapis.com/bucket-porfolio/P3/3.png",
+		"https://storage.googleapis.com/bucket-porfolio/P3/4.png"
+			
 		],
-		"description": "Création d'un site de location d'hotel avec HTML et CSS.",
+		"description": "Création du front end en JavaScript pour une architecte d'intérieur ",
 
 		"type": [
 			"HTML",
 			"CSS",
-			"Responsive"
+			"JavaScript"
         ]
 	},
 	{
-		"id": "Booki",
-		"title": "Projet Booki",
-		"cover": "https://previews.dropbox.com/p/thumb/ACMJnBI8WZtOSkKw2N_mEmj44iFbjPR1VEZvY1Uys7Bd6nVrvaHC6ml0vvPQfigyTzntM_y8oWTtZXdw-vNRB9YgjgfiMSQ2UaC_-C_y1HIsTFelHqd2FSXEox3ms8kMKS-HZ0Hvr8u2kO1Rnw9x6zT0EsJLVa3_LP0x2BcC5RMtBYlXe4rvLwDRPIMWyNG2oT3ttAITydrbsPm0BeY_bN3a5mZoqUuQXyvklTOvV8hJvrm9VDv4ktRTyd6dLFBSSPNEzZrV6uUzhSHMi3xyq4cOpI0Ys-llJf9Rq13VmnDpnijOBDNX8EqZUfU_UuiqUBUcBwFHDuHD_KODBOHufBY6/p.jpeg",
+		"id": "NinaCarducci",
+		"title": "Nina Carducci",
+		"cover": "https://storage.googleapis.com/bucket-porfolio/P5/cover.png",
 		"pictures": [
-			"https://previews.dropbox.com/p/thumb/ACMJnBI8WZtOSkKw2N_mEmj44iFbjPR1VEZvY1Uys7Bd6nVrvaHC6ml0vvPQfigyTzntM_y8oWTtZXdw-vNRB9YgjgfiMSQ2UaC_-C_y1HIsTFelHqd2FSXEox3ms8kMKS-HZ0Hvr8u2kO1Rnw9x6zT0EsJLVa3_LP0x2BcC5RMtBYlXe4rvLwDRPIMWyNG2oT3ttAITydrbsPm0BeY_bN3a5mZoqUuQXyvklTOvV8hJvrm9VDv4ktRTyd6dLFBSSPNEzZrV6uUzhSHMi3xyq4cOpI0Ys-llJf9Rq13VmnDpnijOBDNX8EqZUfU_UuiqUBUcBwFHDuHD_KODBOHufBY6/p.jpeg",
-			"https://previews.dropbox.com/p/thumb/ACPK5hBGnSPORAuldmYDZvUlY6jTpjNjtNvbUjrNMJWufa3b8r7M3nasNfYszcbCPpS77TWDxspilWMC_ESCT7yW3gvP17AJqfwtnepRvQbLeRkTTXJe2gZ3MzYxb4iEb-pNg6gKbsuc0RMDmNJyl6x9v2rRyg1P4ea24Ec5XwSmVbHLBETP6sct5_O98Z8MPDF6v_sMw9VSKdOaPXGWBT8Swuk9AQyzz3dZyumX9SE_SGwKe1MAL1gxW60zdmVn_OPKl8CIxsoqqSRO6HRoZ0d6hNUzDIiZOMGc2JoERACj4SFiNSp2DdosEof_vTl1mizlacD9Syu-qG_nJxpeNAjE/p.png"
+			"https://storage.googleapis.com/bucket-porfolio/P5/cover.png",
+			"https://storage.googleapis.com/bucket-porfolio/P5/1.png",
+			"https://storage.googleapis.com/bucket-porfolio/P5/2.png",
+			"https://storage.googleapis.com/bucket-porfolio/P5/3.png",
+			"https://storage.googleapis.com/bucket-porfolio/P5/4.png"
 		],
-		"description": "Création d'un site de location d'hotel avec HTML et CSS.",
+		"description": "Optimisation d'un site existant, Correction de bug et amélioration du referencement",
 
 		"type": [
-			"HTML",
-			"CSS",
-			"Responsive"
+			"Débug",
+			"Optimisation Seo",
+			"Accessibilité"
+        ]
+	},
+	{
+		"id": "Kasa",
+		"title": "Kasa",
+		"cover": "https://storage.googleapis.com/bucket-porfolio/P6/cover.png",
+		"pictures": [
+			"https://storage.googleapis.com/bucket-porfolio/P6/cover.png",
+			"https://storage.googleapis.com/bucket-porfolio/P6/1.png",
+			"https://storage.googleapis.com/bucket-porfolio/P6/2.png",
+			"https://storage.googleapis.com/bucket-porfolio/P6/3.png"
+
+		],
+		"description": "Création d'un site de location de logements avec React en SCSS",
+
+		"type": [
+			"SCSS",
+			"JavaScript",
+			"React"
+        ]
+	},
+	{
+		"id": "MonVieuxGrimoire",
+		"title": "Mon Vieux Grimoire",
+		"cover": "https://storage.googleapis.com/bucket-porfolio/P7/cover.png",
+		"pictures": [
+			"https://storage.googleapis.com/bucket-porfolio/P7/cover.png",
+			"https://storage.googleapis.com/bucket-porfolio/P7/1.png",
+			"https://storage.googleapis.com/bucket-porfolio/P7/2.png",
+			"https://storage.googleapis.com/bucket-porfolio/P7/3.png",
+			"https://storage.googleapis.com/bucket-porfolio/P7/4.png"
+		],
+		"description": "Création d'une base de donnée MongoDB et création du back-end avec Node JS en JavaScript",
+
+		"type": [
+			"Express Js",
+			"MongoDb",
+			"Node Js"
         ]
 	}
 ]
