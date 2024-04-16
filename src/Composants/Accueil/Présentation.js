@@ -5,8 +5,8 @@ export default function Présentation({ id }) {
     <div id={id} className='Présentation'>
         <h2>Présentation</h2>
         <p className='phrasedaccroche'>Fan d'informatique depuis mon plus jeune âge !</p>
-        <p className='texte'>J'ai fait le souhait de me réorienter après une carrière dans le domaine des Energies.
-        Pour cela je me suis formé sur les bases en autodidacte puis j'ai suivi une formation chez OpenClassRooms de 6 mois en qualité de developpeur web.
+        <p className='texte'>J'ai fait le souhait de me reconvertir après une carrière dans le domaine des Energies.
+        Pour cela je me suis formé aux techniques de codage en autodidacte puis j'ai suivi une formation chez OpenClassRooms de 6 mois en qualité de developpeur web.
         J'ai 30 ans et vis en Loire Atlantique.
         </p>
         <p className='passion'> Je suis quelqu'un de simple qui s'intéresse à tout. Je fais du sport plusieurs fois par semaine, 
