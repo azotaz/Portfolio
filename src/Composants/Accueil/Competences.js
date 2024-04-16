@@ -15,7 +15,7 @@ export default function Competences({ id }) {
         <h2>Compétences</h2>
         <div className='cardcompétences'>
             <div className='hardskill'>
-                <h3>Hard Skill</h3>
+                <h3>Hard Skills</h3>
                 <div className='textehard'>
                 <p><FontAwesomeIcon icon={faHtml5} style={{ color: '#74C0FC' }} /> Html</p>
                 <p><FontAwesomeIcon icon={faSass} style={{ color: '#74C0FC' }} /> Scss</p>
@@ -28,7 +28,7 @@ export default function Competences({ id }) {
                 </div>
             </div>
             <div className='softskill'>
-                <h3>Soft Skill</h3>
+                <h3>Soft Skills</h3>
                 <p>Patient, sérieux, curieux et toujours avide d'apprendre,</p>
                 <p>je m'adapter facilement à n'importe quelle situation et travaille aussi bien en équipe qu'en complète autonomie.</p>
             </div>
