@@ -10,8 +10,8 @@ export default function Footer() {
         <p>© 2024 Cédric Martel</p>
     </div>
     <div className='lienext'>
-        <a href='https://github.com/azotaz' target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithub} style={{ color: '#000000' }} /></a>
-        <a href='https://www.linkedin.com/in/c%C3%A9dric-martel-4b505b203/' target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin} style={{ color: '#000000' }} /></a>
+        <a href='https://github.com/azotaz' target="_blank" rel="noopener noreferrer" alt='github'><FontAwesomeIcon icon={faGithub} style={{ color: '#000000' }} /></a>
+        <a href='https://www.linkedin.com/in/c%C3%A9dric-martel-4b505b203/' target="_blank" rel="noopener noreferrer" alt='linkedin'><FontAwesomeIcon icon={faLinkedin} style={{ color: '#000000' }} /></a>
     </div>
 
     </div>
