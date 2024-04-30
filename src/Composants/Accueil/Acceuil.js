@@ -1,5 +1,6 @@
 import React from 'react'
-import Photo from '../../Photos/moi-zoo.avif'
+//import Photo from '../../Photos/moi-zoo.avif'
+import Photo from '../../Photos/PhotoCv.jpg'
 
 export default function Apropos({ id }) {
   return (
